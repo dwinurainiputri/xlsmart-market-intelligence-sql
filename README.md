@@ -75,5 +75,5 @@ Screenshot hasil ada di `/docs`.
 
 ## 9. Rencana Lanjutan
 - Tambah tabel data pasar BPS (penetrasi internet per provinsi) untuk latihan JOIN.
-- Dashboard di Power BI 
+- Dashboard di Power BI / Looker Studio.
 - Survei outlet (RO) untuk melengkapi sisi lapangan.
